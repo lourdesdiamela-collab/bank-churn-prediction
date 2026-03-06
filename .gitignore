@@ -1,0 +1,9 @@
+# Excluir archivos innecesarios o pesados
+.ipynb_checkpoints
+__pycache__/
+*.csv
+catboost_info/
+data/
+
+# Variables de entorno
+.env
