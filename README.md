@@ -11,7 +11,7 @@
 
 ## 📌 Sobre el Proyecto
 
-Este proyecto (Módulo 4 de Data Science en Henry) se centra en el modelado predictivo para identificar qué clientes tienen mayor probabilidad de abandonar una entidad bancaria (Churn). 
+Este proyecto se centra en el modelado predictivo para identificar qué clientes tienen mayor probabilidad de abandonar una entidad bancaria (Churn). 
 
 El objetivo de negocio es permitir que el banco tome medidas proactivas (retención, ofertas) basándose en las predicciones generadas por diferentes modelos de Machine Learning.
 
